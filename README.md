@@ -1,3 +1,4 @@
+
 🤖 DecodeLabs Artificial Intelligence Internship
 
 Industrial Training Program — Batch 2026
