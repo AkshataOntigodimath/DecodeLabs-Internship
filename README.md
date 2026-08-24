@@ -8,7 +8,7 @@ This repository contains the projects and tasks completed as part of my **Decode
 
 **Internship:** DecodeLabs Internship
 
-**Domain:** Web Development / AI & Programming
+**Domain:**  Artificial Intelligence(AI) 
 
 ---
 
@@ -201,4 +201,4 @@ I would like to thank DecodeLabs for providing this internship opportunity and a
 
 This repository is created for educational and internship purposes.
 
-**One important thing:** If your repository contains **more than just the AI Chatbot** (for example, multiple DecodeLabs tasks), send me the **folder names inside `DecodeLabs-Internship`**, and I can make the README accurately describe **every task** instead of using a generic structure.
+
