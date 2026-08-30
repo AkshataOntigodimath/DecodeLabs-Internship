@@ -35,6 +35,28 @@ An interactive AI chatbot application that allows users to communicate with the 
 - Tkinter
 - Python libraries
 
+### 🔹 Project 2 - AI Flower Classification 
+
+A Machine Learning application that classifies Iris flowers into Setosa, Versicolor, and Virginica using a Decision Tree Classifier.
+
+#### Features
+
+- Iris flower classification
+- Machine Learning model training and prediction
+- Model accuracy evaluation
+- Confusion matrix and class distribution visualization
+- Professional Tkinter GUI application
+- Interactive flower prediction using user-provided measurements
+
+#### Technologies Used
+
+- Python
+- Scikit-learn
+- Tkinter
+- Pillow
+- Matplotlib
+- Pandas
+
 ---
 
 ## 🛠️ Technologies & Tools Used
