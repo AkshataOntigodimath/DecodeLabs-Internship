@@ -57,7 +57,7 @@ A Machine Learning application that classifies Iris flowers into Setosa, Versico
 - Matplotlib
 - Pandas
 
-  ### 🔹 Project 3 - AI Movie Recommendation System
+### 🔹 Project 3 - AI Movie Recommendation System
 
 An AI-based movie recommendation application that recommends movies based on the user's preferred genres using a content-based recommendation approach.
 
